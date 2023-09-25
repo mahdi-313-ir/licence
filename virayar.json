@@ -1,1 +1,12 @@
-ewogICJzdGF0IiA6ICJ0cnVlIiwKICAidXBkYXRlIiA6ICJmYWxzZSIsCiAgIm9iaiIgOiBbCiAgICAnbi0zb2NxdHogYmctYmxhY2sgYm9yZGVyLXRyYW5zcGFyZW50IG4tMWhocXAwJywKICAgICdweS0yIGZsZXggdy1mdWxsIHNocmluay0wIHB4LTQnLAogICAgJ2J1dHRvbi5uLTNvY3F0ei5iZy10cmFuc3BhcmVudC5ib3JkZXItZ3JheS0yMDAudGV4dC1ibGFjay5uLTFoaHFwMCcsCiAgICAnYnV0dG9uLm4tM29jcXR6Lm4tdWJwbmEwLm4tYTV3MjU1Lm4teXFmZjc2LmgtMTInLAogICAgJ24teWxuODB4IGp1c3RpZnktc3RhcnQgdy1hdXRvJywKICAgICcuaC0xMC50ZXh0LWdyYXktNjAwLnRleHQtc3RhcnQucHgtMy53LWZ1bGwnCiAgXQp9
+{
+  "stat" : "true",
+  "update" : "false",
+  "obj" : [
+    'n-3ocqtz bg-black border-transparent n-1hhqp0',
+    'py-2 flex w-full shrink-0 px-4',
+    'button.n-3ocqtz.bg-transparent.border-gray-200.text-black.n-1hhqp0',
+    'button.n-3ocqtz.n-ubpna0.n-a5w255.n-yqff76.h-12',
+    'n-yln80x justify-start w-auto',
+    '.h-10.text-gray-600.text-start.px-3.w-full'
+  ]
+}
