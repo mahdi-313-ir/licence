@@ -1,4 +1,12 @@
 {
-  "stat" : "true",
-  "update" : "false"
+  "stat": "true",
+  "update": "false",
+  "obj": [
+    "n-3ocqtz bg-black border-transparent n-1hhqp0",
+    "py-2 flex w-full shrink-0 px-4",
+    "button.n-3ocqtz.bg-transparent.border-gray-200.text-black.n-1hhqp0",
+    "button.n-3ocqtz.n-ubpna0.n-a5w255.n-yqff76.h-12",
+    "n-yln80x justify-start w-auto",
+    ".h-10.text-gray-600.text-start.px-3.w-full"
+  ]
 }
